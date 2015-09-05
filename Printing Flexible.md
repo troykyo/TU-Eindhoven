@@ -34,3 +34,5 @@ Dimensional stability comes from the material solidifying in position as fast as
 Larger filament is easier to hold on to and move thru the Hot End.  
 
 
+
+

@@ -5,10 +5,9 @@ Textiles hold an interesting example in which we might explore the nature of int
 
 Yet more than half of the textiles worn today are not wovens but knits.  The interstitial relationships in a knit are much more complicated for a number of reasons.  In creating the classic weft knit structure each yarn is experiencing two interstitial forces on a micro scale that navigate the interstitially in an arced elliptical relationship. (an ellipse being a circle created with two centers).  These relationships dynamically move in conflicting ellipses that on a macro level form an interstitial relationship that we might describe as polar (and perhaps turtle) in nature.  This is complicated by the fact that the textile can be created by a single yarn moved into a complex number of interstitial relationships.  Let the nature of these relationships is often easily defined in mathematics by using cubic bezier curves.  Yet the definition of the interstitial surface is interesting because it can be created by using only two points, the begging and the end of the yarn. The drape of knitted interstitial relationships have a more conformable drape that adapts to shapes and gravity in a more uniform way that results in less tucks and folds.
 
-In both systems no new node is created in the moment that the yarns interact To do so would be to join the yarns into a single yarn.  (To be discussed at a later point.) 
+In both systems no new node is created in the moment that the yarns interact To do so would be to join the yarns into a single yarn.  (To be discussed further at a later point.) 
 
-Perhaps textile thinking refers to idea of complex interstitial relationships where interstitial locations are identified,  yet new nodes are not created.   
+Perhaps textile thinking refers to idea of complex interstitial relationships where interstitial locations are identified and interstitial planes are generated,  yet no new nodes are created.  What does this mean in as a metaphorical example?  If the design requirements of a complex project are set down as nodes a knitted or woven relationship is created between them as the project is executed.  
 
 Special thanks to Professor Lou Feijs and Oscar Tomico whose course on Digital Craftsmanship deeply inspired this idea.
-
-Next Steps : Linear, Polar, Turtle, Planar, Weighted Intersitial Decimation, Phong
+Next Steps: Weighted Interstitial Decimation, Phong as a visual metaphore

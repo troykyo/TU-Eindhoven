@@ -3,7 +3,7 @@
 It's been seven months that we've printed FilaFlex with multiple printers and kicked out 3D printed shoes of all shapes and sizes here at SLEM.  Flexible Filaments are definitely on the advance side of 3D, but we've come up with a few tricks to make it easier here at SLEM. 
 
 ##Prequel
-Make sure your printer is square, lubricated and calibrated 
+Make sure your printer is square, lubricated and calibrated. 
 
 ##The Spice Must Flow
 Filament backing up in the Hot End is BAD. BAD BAD BAD.  SUPER BAD. JUST BAD. 
